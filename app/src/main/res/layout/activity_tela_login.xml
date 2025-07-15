@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundobb"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".Tela_Login">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="225dp"
+        android:layout_height="208dp"
+        app:srcCompat="@drawable/logobib" />
+
+    <EditText
+        android:id="@+id/editUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/borda_edit"
+        android:drawableLeft="@drawable/usuar"
+        android:drawablePadding="4dp"
+        android:ems="10"
+        android:hint="Digite seu CPF (somente números)"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/editSenha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/borda_edit"
+        android:drawableLeft="@drawable/pass"
+        android:drawablePadding="4dp"
+        android:ems="10"
+        android:hint="Digite sua senha"
+        android:inputType="textPassword"
+        android:outlineProvider="none" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:drawableLeft="@android:drawable/btn_star"
+        android:drawableRight="@android:drawable/btn_star"
+        android:fontFamily="@font/britanic"
+        android:onClick="loginBanco"
+        android:text="Entrar" />
+
+    <TextView
+        android:id="@+id/txtAviso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#F44336" />
+
+</LinearLayout>

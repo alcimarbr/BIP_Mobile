@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imvEscola"
+        android:layout_width="98dp"
+        android:layout_height="97dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:scaleType="fitXY"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/txtNomeEscola"
+        android:layout_width="160dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="4dp"
+        android:text="Etec de São Paulo"
+        app:layout_constraintStart_toEndOf="@+id/imvEscola"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtEndEscola"
+        android:layout_width="290dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="14dp"
+        android:text="Endereço"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imvEscola"
+        app:layout_constraintTop_toBottomOf="@+id/txtNomeEscola" />
+
+    <TextView
+        android:id="@+id/txtCursoEscola"
+        android:layout_width="109dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:text="Curso"
+        app:layout_constraintStart_toEndOf="@+id/imvEscola"
+        app:layout_constraintTop_toBottomOf="@+id/txtEndEscola" />
+
+    <TextView
+        android:id="@+id/txtDiscEscola"
+        android:layout_width="94dp"
+        android:layout_height="21dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="16dp"
+        android:text="Disciplina"
+        app:layout_constraintStart_toEndOf="@+id/txtCursoEscola"
+        app:layout_constraintTop_toBottomOf="@+id/txtEndEscola" />
+
+    <TextView
+        android:id="@+id/txtNumAulas"
+        android:layout_width="65dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Aulas"
+        app:layout_constraintStart_toEndOf="@+id/txtDiscEscola"
+        app:layout_constraintTop_toBottomOf="@+id/txtEndEscola" />
+
+    <TextView
+        android:id="@+id/txtStaEscola"
+        android:layout_width="367dp"
+        android:layout_height="16dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/bernhc"
+        android:gravity="right"
+        android:text="Aula Livre"
+        android:textColor="#C55858"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtCursoEscola" />
+
+    <TextView
+        android:id="@+id/txtTelEscola"
+        android:layout_width="110dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="4dp"
+        android:text="Telefone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toEndOf="@+id/txtNomeEscola"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="355dp"
+        android:layout_height="5dp"
+        android:layout_marginTop="12dp"
+        android:background="#E8E7E7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.392"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtStaEscola" />
+</android.support.constraint.ConstraintLayout>

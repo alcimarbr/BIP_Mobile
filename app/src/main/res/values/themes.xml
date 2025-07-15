@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MestradoBIP" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#D0D0D0</item>
+        <item name="colorPrimaryDark">#D0D0D0</item>
+        <item name="colorAccent">#D0D0D0</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
