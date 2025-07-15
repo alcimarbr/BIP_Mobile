@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\BLA\.gradle\caches\transforms-3\6d86efdff2fb8114b8a15e1569cd3ad0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9cc405a4cb35f2bd27ebc7fcf11abc6f\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b58b164684170addc4605d337280333a\transformed\circleimageview-2.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.24] C:\Users\BLA\.gradle\caches\transforms-3\b570b5a1c2aaa6a41d92aee5e6c0115d\transformed\android-gif-drawable-1.2.24\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\a5374a77759f911f804a7b351416743f\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\3648fb114e268826532fb9efd04f940b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b6aa99f61c028070f4e0a5433904aa2b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\f7af922e920cfbbd46f9389d56ea64ff\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\e2936c08d2b95df1b6e6b612663f2db7\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\8d4b792156aadd181a1546c0d375e1a9\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b2094ad2440f9053fb7607ebdf967a12\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\da1eac50d77be7ad2dc48d42076c1160\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b8c757796a2769d2ee920d48ccdbdef1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\1d7b9394eb560d4a6395c7097154ee8f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\cc924a1080ac61b4057eea09b0c434c4\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\f289c13c5d72a0d29549e1d45a1e6b23\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\d47814db33a0287740b2114f59ae1219\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9e531ed48fff4ec0bab341ce146590e4\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\1e9126c39bb6229d66e52f2dd4f6717f\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4566b148e516ccc21bf857b40188b8d7\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\17473b3eb1eecf69f1232725b9adab30\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4ab9badc0d8112e5b5bbd33e908fed14\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\49ab61172b2133770db560e4a9d3a67d\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4db917406295e9f00d62c1c7b3153137\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\95e548f72976befd10de2ebc117a535d\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\fd6b7a49007d6a959a526aef294a2504\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\f3eaaef6c004e9572578982954327534\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\2cf5ef69e936f555c6b208c64dde94da\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\e8e802a240a7ddb02b4a54b494ab61c7\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\BLA\.gradle\caches\transforms-3\9a8914faf4bed9f04ecf6e33d0a78578\transformed\relinker-1.4.1\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:8:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\BLA\.gradle\caches\transforms-3\6d86efdff2fb8114b8a15e1569cd3ad0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\BLA\.gradle\caches\transforms-3\6d86efdff2fb8114b8a15e1569cd3ad0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b58b164684170addc4605d337280333a\transformed\circleimageview-2.0.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b58b164684170addc4605d337280333a\transformed\circleimageview-2.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9e531ed48fff4ec0bab341ce146590e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9e531ed48fff4ec0bab341ce146590e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\1e9126c39bb6229d66e52f2dd4f6717f\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\1e9126c39bb6229d66e52f2dd4f6717f\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9e531ed48fff4ec0bab341ce146590e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:16:9-49
+	android:dataExtractionRules
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:10:9-65
+activity#com.example.mestradobip.tela_consulta
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:19:13-42
+activity#com.example.mestradobip.tela_confirmacao
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:22:13-45
+activity#com.example.mestradobip.Lista_Aulas
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:25:13-40
+activity#com.example.mestradobip.TelaEntrada
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:28:13-40
+activity#com.example.mestradobip.Tela_Login
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:31:13-39
+activity#com.example.mestradobip.MainActivity
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:exported
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\BLA\.gradle\caches\transforms-3\6d86efdff2fb8114b8a15e1569cd3ad0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\BLA\.gradle\caches\transforms-3\6d86efdff2fb8114b8a15e1569cd3ad0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9cc405a4cb35f2bd27ebc7fcf11abc6f\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9cc405a4cb35f2bd27ebc7fcf11abc6f\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b58b164684170addc4605d337280333a\transformed\circleimageview-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b58b164684170addc4605d337280333a\transformed\circleimageview-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.24] C:\Users\BLA\.gradle\caches\transforms-3\b570b5a1c2aaa6a41d92aee5e6c0115d\transformed\android-gif-drawable-1.2.24\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.24] C:\Users\BLA\.gradle\caches\transforms-3\b570b5a1c2aaa6a41d92aee5e6c0115d\transformed\android-gif-drawable-1.2.24\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\a5374a77759f911f804a7b351416743f\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\a5374a77759f911f804a7b351416743f\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\3648fb114e268826532fb9efd04f940b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\3648fb114e268826532fb9efd04f940b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b6aa99f61c028070f4e0a5433904aa2b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b6aa99f61c028070f4e0a5433904aa2b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\f7af922e920cfbbd46f9389d56ea64ff\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\f7af922e920cfbbd46f9389d56ea64ff\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\e2936c08d2b95df1b6e6b612663f2db7\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\e2936c08d2b95df1b6e6b612663f2db7\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\8d4b792156aadd181a1546c0d375e1a9\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\8d4b792156aadd181a1546c0d375e1a9\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b2094ad2440f9053fb7607ebdf967a12\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b2094ad2440f9053fb7607ebdf967a12\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\da1eac50d77be7ad2dc48d42076c1160\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\da1eac50d77be7ad2dc48d42076c1160\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b8c757796a2769d2ee920d48ccdbdef1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\b8c757796a2769d2ee920d48ccdbdef1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\1d7b9394eb560d4a6395c7097154ee8f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\1d7b9394eb560d4a6395c7097154ee8f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\cc924a1080ac61b4057eea09b0c434c4\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\cc924a1080ac61b4057eea09b0c434c4\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\f289c13c5d72a0d29549e1d45a1e6b23\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\f289c13c5d72a0d29549e1d45a1e6b23\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\d47814db33a0287740b2114f59ae1219\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\d47814db33a0287740b2114f59ae1219\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9e531ed48fff4ec0bab341ce146590e4\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9e531ed48fff4ec0bab341ce146590e4\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\1e9126c39bb6229d66e52f2dd4f6717f\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\1e9126c39bb6229d66e52f2dd4f6717f\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4566b148e516ccc21bf857b40188b8d7\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4566b148e516ccc21bf857b40188b8d7\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\17473b3eb1eecf69f1232725b9adab30\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\17473b3eb1eecf69f1232725b9adab30\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4ab9badc0d8112e5b5bbd33e908fed14\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4ab9badc0d8112e5b5bbd33e908fed14\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\49ab61172b2133770db560e4a9d3a67d\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\49ab61172b2133770db560e4a9d3a67d\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4db917406295e9f00d62c1c7b3153137\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\4db917406295e9f00d62c1c7b3153137\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\95e548f72976befd10de2ebc117a535d\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\95e548f72976befd10de2ebc117a535d\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\fd6b7a49007d6a959a526aef294a2504\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\fd6b7a49007d6a959a526aef294a2504\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\f3eaaef6c004e9572578982954327534\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\f3eaaef6c004e9572578982954327534\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\2cf5ef69e936f555c6b208c64dde94da\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BLA\.gradle\caches\transforms-3\2cf5ef69e936f555c6b208c64dde94da\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\e8e802a240a7ddb02b4a54b494ab61c7\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\e8e802a240a7ddb02b4a54b494ab61c7\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\BLA\.gradle\caches\transforms-3\9a8914faf4bed9f04ecf6e33d0a78578\transformed\relinker-1.4.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\BLA\.gradle\caches\transforms-3\9a8914faf4bed9f04ecf6e33d0a78578\transformed\relinker-1.4.1\AndroidManifest.xml:5:5-43
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
