@@ -1,0 +1,88 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mestradobip"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:8:5-42:19
+14        android:allowBackup="true"
+14-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] C:\Users\BLA\.gradle\caches\transforms-3\9e531ed48fff4ec0bab341ce146590e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:10:9-65
+17        android:debuggable="true"
+18        android:fullBackupContent="@xml/backup_rules"
+18-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:11:9-54
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:13:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:14:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:15:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.MestradoBIP" >
+24-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:16:9-49
+25        <activity
+25-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:18:9-20:40
+26            android:name="com.example.mestradobip.tela_consulta"
+26-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:19:13-42
+27            android:exported="false" />
+27-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:20:13-37
+28        <activity
+28-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:21:9-23:40
+29            android:name="com.example.mestradobip.tela_confirmacao"
+29-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:22:13-45
+30            android:exported="false" />
+30-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:23:13-37
+31        <activity
+31-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:24:9-26:40
+32            android:name="com.example.mestradobip.Lista_Aulas"
+32-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:25:13-40
+33            android:exported="false" />
+33-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:26:13-37
+34        <activity
+34-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:27:9-29:40
+35            android:name="com.example.mestradobip.TelaEntrada"
+35-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:28:13-40
+36            android:exported="false" />
+36-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:29:13-37
+37        <activity
+37-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:30:9-32:40
+38            android:name="com.example.mestradobip.Tela_Login"
+38-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:31:13-39
+39            android:exported="false" />
+39-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:32:13-37
+40        <activity
+40-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:33:9-41:20
+41            android:name="com.example.mestradobip.MainActivity"
+41-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:34:13-41
+42            android:exported="true" >
+42-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:35:13-36
+43            <intent-filter>
+43-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:36:13-40:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:37:17-69
+44-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:37:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:39:17-77
+46-->C:\Users\BLA\AndroidStudioProjects\MestradoBIP\app\src\main\AndroidManifest.xml:39:27-74
+47            </intent-filter>
+48        </activity>
+49    </application>
+50
+51</manifest>
